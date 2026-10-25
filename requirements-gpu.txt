@@ -1,0 +1,6 @@
+-r requirements.txt
+# Install compatible NVIDIA ARM64 CUDA PyTorch separately first.
+diffusers>=0.30
+transformers>=4.44
+accelerate>=0.34
+safetensors>=0.4
